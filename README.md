@@ -1,7 +1,7 @@
 <p align="left">
 	<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
-	<h2 align="left"> < Insert Project Title Here > </h2>
-	<h4 align="left"> < Insert Project Description Here > <h4>
+	<h2 align="left"> < ADD PROJECT TITLE > </h2>
+	<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
 </p>
 
 ---
@@ -10,10 +10,8 @@
 
 
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+- [ ]  < ADD FUNCTIONALITY >
+- [ ]  < ADD FUNCTIONALITY >
 
 <br>
 
@@ -21,8 +19,8 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+	-  < add pre-requisite >
+	-  < add pre-requisite >
 
 * Directions to setup/install
 ```bash
