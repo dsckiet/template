@@ -1,5 +1,5 @@
 <p align="left">
-	<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
+	<img width="300" src="https://drive.google.com/uc?export=view&id=1XfLhaaUsef3sD7c46TC_ZoaorKg-uBFM" />
 	<h2 align="left"> < ADD PROJECT TITLE > </h2>
 	<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
 </p>
